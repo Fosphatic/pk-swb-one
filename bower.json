@@ -1,0 +1,7 @@
+{
+  "name": "swb-theme-one",
+  "dependencies": {
+    "uikit": "#master"
+  },
+  "private": true
+}
